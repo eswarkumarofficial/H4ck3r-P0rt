@@ -13,5 +13,5 @@ sudo chmod +x H4ck3r-P0rt.py
 
 pip install -r requirements.txt
 
-python3 H4ck3r-P0rt.py
+python3 H4ck3r-p0rt.py
 

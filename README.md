@@ -9,7 +9,7 @@ git clone https://github.com/eswarkumarofficial/H4ck3r-P0rt.git
 
 cd H4ck3r-P0rt
 
-sudo chmod +x H4ck3r-P0rt.py
+sudo chmod +x H4ck3r-p0rt.py
 
 pip install -r requirements.txt
 
